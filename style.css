@@ -1,0 +1,26 @@
+
+body{
+    background-color:gray;
+}
+#hero_section{
+    height: 50vh;
+    display: flex;
+}
+.sec1{
+    width: 48%;
+    height: 100%;
+    text-align: center;
+}
+#fname{
+    font-size: 450%;
+}
+#name{
+    text-align: center;
+}
+#babushkaboi{
+    width: 75%;
+    height: 100%;
+    border-radius: 100%;
+}
+#About-me{text-align: center;margin-top: 3%; padding: 5%;}
+form{width: 50%;margin-left: 25%; padding: 2%; border-radius: 3%;}
